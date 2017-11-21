@@ -1,5 +1,5 @@
+MySQL 5.7 Reference Manual
 
-* Preface and Legal Notices
 * Preface and Legal Notices
 * General Information
 * Installing and Upgrading MySQL
