@@ -1,2 +1,2 @@
 # MySQL
-MySQL 文档
+MySQL 中文文档
